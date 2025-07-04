@@ -15,21 +15,16 @@
 - [ ] The Secrets of the Myst *(Deck Building game.)*
 - [ ] Mechanic structure of TTRPG rulebook *(System Custom with D&D 3.5 OGL as core.)*
 - [ ] Mod exixting established TCGs and CCGs *(So I can build the reference materials.)*
+- [ ] Locate examples of formulas to determine stats and mechanics for Video Games. *(I can come up with my own, but need examples. They help and give me ideas.)*
 
 **The Indorak and the Horror of Kabal** digital game...
 
 *Brief Description*: You are a Priority One Asset to the Hunter Explorer mission. From your own logic and whining, your demand to enter a natral wormhole to a starship adrift on the other side. Upon exiting the wormhole, everyone and you learned that wormholes, regardless if natural or made by the Hunter Explorer, are one way streets. Now the ship is lost in an unknown galaxy. And to make matters worse, the AI of the adrift ship is requesting assistance. "All crew members of the Imperial Society Highguard-Class starship Indorak has been killed. A malvolent AI virus has infected the Unimatrix of the comm network and ordered the kill switch to the crew's nanobots. From that, he has amassed around 70% of the combat drones to manually install and override my systems. Imperial commando force is still three weeks out. I fear they will not arrive in time to secure the Indorak."
 
-    Who you are is Darkain Rioku...[^1]
-    
-    ... that Priority One Asset. You are a self made physic theorist and engineer. You alone figured out about the links of gravity. From that, the building blocks and drawings of an engine that that manipulate this field. From that, with the help of Area 64's chief mechanical engineer Jane Layton, you created the propulsion and means to travel **past** lightyears. The Hunter Explorer Quad-Gravv Rail ship style can create a micro wormhole along a gravatonic thread between strong gravity wells (like stars). The crew only experience a 6 second lapse of travel time in a Micro with the fabric of the STC (Space-Time Continuim) being roughly aligned. Outside of around 52 lightyears, time starts to lapse on an exponential increase of length.
-    
-    Your job is to follow the squad of special force+++ USA Militry soldiers and provide cover fire if needed. you do have some combat skills, but a chronic physical condition limits actions and abilities. You are to analyze and quickly adapt items for use of these soldiers. With an Intuition mini game build in, you figure out Imperial Technology base and create Bridge Links and Core Know of advance tech models throughout the game... Until cut off and in extreme danger after being seperated by the squad.
-
 *What my plans are...*
 - [ ] Study the Unreal Engine Code *(Learning process for the game.)*
 - [ ] Apply codes and mods to Unreal Tournament Code *(To test ideas and stats of game components.)*
-- [ ] First installment of Referance Material for PoT Universe *(The Rules of Reality and the Cosmology of the Quantumverse.)*[^2]
+- [ ] First installment of Referance Material for PoT Universe *(The Rules of Reality and the Cosmology of the Quantumverse.)*
 
 ---
 
@@ -37,7 +32,7 @@
 
 - [ ] **GitHub Flow** *(Priority One Learning)*
 - [ ] **Spreadsheet Functions** *(For assistance with GMs/DMs/RPG Storytellers)*
-- [ ] **New Tabletop Games** *(The building blocks to create specific style of the PoT Universe)*
+- [ ] **New Tabletop Games** *(The building blocks to create specific style of the PoT Universe[^1])*
 - [ ] **Visual Studio Code** *(Only aware and know a bit in C++/C#/Python. Utilized QBasic)*
 
 ---
@@ -54,9 +49,7 @@ I'm pretty much open for anything that deals with me learning software developme
 
 ***- 🤔 I’m looking for help with ...***
 
-**WHY...** is my footnote 1 not functional and being weird for starters. (My preview is showing it weird and undesirable. Spent around 30-45 minutes trying to fix it. Grrrr...)
-
-And of course to build upon my settings if you don't mind it being part of the Creative Commons library I'm building.
+To build upon my settings if you don't mind it being part of the Creative Commons library I'm building.
 
 Other than that, at the moment I haven't came across learning issues with the coding. But maybe setting up and updating this PC I have. *(HP Pavilion of 2018)*
 
@@ -64,7 +57,11 @@ Other than that, at the moment I haven't came across learning issues with the co
   
 ***- 💬 Ask me about ...***
 
-  I can talk other people's heads off about the settings I create. Since the conception of Draciess in 2009, others have added their characters, contributions, and caused me to answer questions of the universe that I felt like I can give a logical and practical answer of a meaning and means about. I'm into scientific theories and research in regards to those questions that needed answering. I'm so scattered in trains of thoughts that I work a little here an there. The two mention here are just on the front burner at the moment. Remember, I have put my settings into one universe. Then the concept of a Reality Key into other realities. (aka Intellectual copyrighted stories, shows, movies, games, etc...)
+- I can talk other people's heads off about the settings I create.
+- Since the conception of Draciess in 2009, others have added their characters, contributions, and caused me to answer questions of the universe that I felt like I can give a logical and practical answer of a meaning and means about.
+- I'm into scientific theories and research in regards to those questions that needed answering.
+- I'm so scattered in trains of thoughts that I work a little here an there. The two mention here are just on the front burner at the moment. Remember, I have put my settings into one universe.
+- Then the concept of a Reality Key into other realities. (aka Intellectual copyrighted stories, shows, movies, games, etc...) This deals with Cycle Four of my storyline. ***(Sandbox mode)***
 
 ---
 
@@ -79,18 +76,19 @@ Other than that, at the moment I haven't came across learning issues with the co
 ---
 
 - 📺 Childhood Inspirations: ...
-- Star Trek (TNG and Voyager.)
-- Sliders (Mid 90's SciFi of Parallel universe travels.)
-- Red Dwarf (BBC SciFi comedy.)
+    - Star Trek (TNG and Voyager.)
+    - Sliders (Mid 90's SciFi of Parallel universe travels.)
+    - Red Dwarf (BBC SciFi comedy.)
 
 - 📘 Story Inspiration: ...
-- The Talon Series of Julia Kagawa
-- The Incrypted Series of Suasan McGuire
-- The Inheritence Cycle of Christopher Paolini
+    - The Talon Series of Julia Kagawa
+    - The Incrypted Series of Suasan McGuire
+    - The Inheritence Cycle of Christopher Paolini
 
 - 📝 Tabletop Games
-- Starfinder by Paizo
-- Exalted by White Wolf
+    - Starfinder by Paizo
+    - Exalted by White Wolf Entertainment AB
+    - Rifts by Palladium Books
 
 ---
 ### Activity Log
@@ -99,8 +97,11 @@ This section will see updates constantly of additions...
 
 2025/06/29: Attept to download source codes of three versions of the Unreal Engine (V.3, V.4, and V.5, due to hardware limits and software glitches of PC.). As well as the source code of Unreal Tournament.
 
+2025/07/02: Removed the footnote md code. On personal note, had software issues on my end. After troubleshooting, I learned that I had to disable my browser extension. W/O asking the web. RR (refrence research): found tools to tear apart pdfs for the purpose of ordering to pratical uses. Task for the day: open the tutorial and look through it to get an idea of what is there, observe and learn passively.
+
+2025/07/04: Removed the long section of my personal readme file. Cut and paste into a Notepad file.
+- [X] Start the Tutorial.
+- [ ] Make a project readme file.
 ---
 
-[^1]: Darkain is a split in my life at a 50/50 choice of direction. At 18, he walked away from everything on his own. For me, my mom gave up something nasty for me. I like planting myself in situations in my head. And as an TTRPG player and GM, I can always link and build upon story context. Wait until others learn the Cycle Two of the universe. "The Madness..."
-
-[^2]: The Pillars of Triad Universe was formed with an established set of rules for reality of December of 2013 officially. It wasn't until 2018 that I got tired of constantly writing *Pillars of Triad* Universe. As soon as I started to write the acronym, I frozed at what I spelled. It was never in my intent to call it that. And just because I do enjoy that substance, I didn't mean to be called that. But the Seer's on Draciess has a saying... "Things happen for a reason and in a particular order." Then the new Great Seer Kassie Berslain added... "Life can be cruel and funny at the same time. All it takes is perspective and awareness of the Threads at play."
+[^1]: The Pillars of Triad Universe was formed with an established set of rules for reality of December of 2013 officially. It wasn't until 2018 that I got tired of constantly writing *Pillars of Triad* Universe. As soon as I started to write the acronym, I frozed at what I spelled. It was never in my intent to call it that. And just because I do enjoy that substance, I didn't mean to be called that. But the Seer's on Draciess has a saying... "Things happen for a reason and in a particular order." Then the new Great Seer Kassie Berslain added... "Life can be cruel and funny at the same time. All it takes is perspective and awareness of the Threads at play." I don't care how it looks... and just like Steve Jackson's friends stated at the code name for GURPS. "Don't change the name." And I'm not going to just reinvent the universe name. I'm stuck with it in my head.
